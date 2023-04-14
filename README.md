@@ -6,7 +6,7 @@ Jack and Beta testers love the PlanMyTrip app.  There were a few recommendations
 
 <img src="https://user-images.githubusercontent.com/107224632/180352744-818ca0a5-175c-4fb9-acfc-f03025e636a5.png" width=80% height=80%><br />
 *Figure 1: WeatherPy_Database.csv*<br />
-* Created new set of 2,000 random latitudes and longitudes and got the nearest city using the citipy module.
+* Created a new set of 2,000 random latitudes and longitudes and got the nearest city using the citipy module.
 * Performed an API call with the OpenWeatherMap to retrieve:
   * Latitude and longitude
   * Maximum temperature
